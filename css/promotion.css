@@ -55,8 +55,8 @@
 
 .promotion .p_box span {
   position: absolute;
-  left: 1%;
-  top: 1%;
+  left: 0%;
+  top: 0%;
   background: #023586;
   color: #fff;
   padding: 2px 6px;
